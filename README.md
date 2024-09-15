@@ -1,7 +1,7 @@
 ### Olá! Eu sou Arthur Souza!
 
-- 🔭 Desenvolvedor Java Jr pela Generation
-- 🌱 Estudando Java, Javascript, HTML, CSS, e alguns frameworks
+- Só tô pelo código 
+- 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
 
 
