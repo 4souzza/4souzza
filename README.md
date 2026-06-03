@@ -1,8 +1,7 @@
 ### Olá! Eu sou Arthur Souza!
 
 - Só tô pelo código 
-- 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
+
 
 
  <div align="space-between">
